@@ -8,8 +8,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="RUNTIME" name="info.cukes:cucumber-java:1.1.3" level="application" />
-    <orderEntry type="library" scope="RUNTIME" name="info.cukes:cucumber-core:1.1.3" level="application" />
+    <orderEntry type="library" scope="TEST" name="info.cukes:cucumber-java:1.1.3" level="application" />
+    <orderEntry type="library" scope="TEST" name="info.cukes:cucumber-core:1.1.3" level="application" />
     <orderEntry type="library" name="junit:junit:4.11" level="application" />
     <orderEntry type="library" name="info.cukes:cucumber-junit:1.1.3" level="application" />
   </component>
